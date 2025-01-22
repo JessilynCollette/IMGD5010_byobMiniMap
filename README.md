@@ -23,7 +23,7 @@ The binary for the top row in this mini map example is : (0010, 0000, 0000), (00
 (Object, Transformation, Placement)
 
 ## Challenge
-### Draw a simple map with some trees, a pond, and a path leading to some treasure (X marks the spot!)
+### Create a simple map with some trees, a pond, and a path leading to some treasure (X marks the spot!)
 
 
 
