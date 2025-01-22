@@ -19,7 +19,7 @@ This project is a hypothetical 4-bit programming interface allowing the user to 
 ## Example
 ![IMG_0394](https://github.com/user-attachments/assets/cf2f5467-ebcd-4254-a147-f7a8182cb1d6)
 
-The binary for the top row in this mini map example is : (0010, 0000, 0000), (0000, 0010, 0001), (0111, 0011, 00100), (1000, 0010, 0011)
+The binary for the top row in this mini map example is : (0010, 0000, 0000), (0000, 0010, 0001), (0111, 0011, 0010), (1000, 0010, 0011)
 (Object/Asset, Transformation, Placement)
 
 ## Challenge
