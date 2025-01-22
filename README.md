@@ -8,4 +8,5 @@ This project is a hypothetical 4-bit programming interface allowing the user to 
 
 ## The Process
 
-![IMG_0389](https://github.com/user-attachments/assets/3dd611a4-ac02-4491-a440-b5aace221dc6)
+![IMG_0389](https://github.com/user-attachments/assets/3dd611a4-ac02-4491-a440-b5aace221dc6) ![IMG_0390](https://github.com/user-attachments/assets/551cdf10-cb91-49c4-ad78-19211be7ef6a)
+
