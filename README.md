@@ -16,5 +16,13 @@ This project is a hypothetical 4-bit programming interface allowing the user to 
 ### Choose the binary encoding for the placement on the grid where you would like to place the asset.
 ![IMG_0392](https://github.com/user-attachments/assets/16ebe555-0ca0-4600-8f5d-bc6626ef41bd)
 
+## Example
+![IMG_0394](https://github.com/user-attachments/assets/cf2f5467-ebcd-4254-a147-f7a8182cb1d6)
+
+The binary for this mini map example is : 
+
+## Challenge
+### Draw a simple map with some trees, a pond, and a path leading to some treasure (X marks the spot!)
+
 
 
