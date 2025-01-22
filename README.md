@@ -26,6 +26,6 @@ The binary for the top row in this mini map example is : (0010, 0000, 0000), (00
 ### Create a simple map with some trees, a pond, and a path leading to some treasure (X marks the spot!)
 
 ## Tip
-There are 3 options for each square in the grid. Add water blocks, trees, or rocks with no transformations to keep your example simple! Use parantheses to group the object, tranformation, and placement together like in the above example to keep your answer legible! 
+There are 3 options for each square in the grid: add water blocks, trees, or rocks with no transformations to keep your example simple! Use parentheses to group the object, tranformation, and placement together, as seen in the example above, to keep your answer legible! 
 
 
